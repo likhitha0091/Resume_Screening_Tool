@@ -41,12 +41,12 @@ Access the deployed application here:
 👉 (https://resumescreeningtool-ssahs5dodvfkotfacucqva.streamlit.app/)
 
 
-Future Enhancements
+## Future Enhancements
 
-PDF resume support
+1.PDF resume support
 
-Advanced NLP-based matching
+2.Advanced NLP-based matching
 
-Skill weighting and ranking
+3.Skill weighting and ranking
 
-Database integration for multiple resumes
+4.Database integration for multiple resumes

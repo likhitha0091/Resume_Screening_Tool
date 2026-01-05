@@ -34,6 +34,15 @@ The application is deployed as a web app using Streamlit.
 pip install streamlit
 streamlit run app.py
 
+## Future Enhancements
+
+- Support for PDF resume uploads
+- Advanced NLP-based skill matching
+- Skill weighting based on job importance
+- Multiple resume comparison
+- User authentication and history tracking
+
+
 Live Demo
 
 Access the deployed application here:
@@ -41,12 +50,3 @@ Access the deployed application here:
 👉 (https://resumescreeningtool-ssahs5dodvfkotfacucqva.streamlit.app/)
 
 
-## Future Enhancements
-
-1.PDF resume support
-
-2.Advanced NLP-based matching
-
-3.Skill weighting and ranking
-
-4.Database integration for multiple resumes

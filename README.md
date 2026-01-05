@@ -38,7 +38,7 @@ Live Demo
 
 Access the deployed application here:
 👉 ## Live Demo
-👉 [Click here to open the deployed application](https://resumescreeningtool-ssahs5dodvfkotfacucqva.streamlit.app/)
+👉 (https://resumescreeningtool-ssahs5dodvfkotfacucqva.streamlit.app/)
 
 
 Future Enhancements

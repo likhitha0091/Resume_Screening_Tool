@@ -29,11 +29,6 @@ The application is deployed as a web app using Streamlit.
 5. A match score is calculated and displayed
 6. Missing skills and recommendations are shown
 
-## How to Run Locally
-```bash
-pip install streamlit
-streamlit run app.py
-
 ## Future Enhancements
 
 - Support for PDF resume uploads
@@ -41,6 +36,11 @@ streamlit run app.py
 - Skill weighting based on job importance
 - Multiple resume comparison
 - User authentication and history tracking
+
+## How to Run Locally
+```bash
+pip install streamlit
+streamlit run app.py
 
 
 Live Demo

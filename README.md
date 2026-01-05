@@ -37,7 +37,9 @@ streamlit run app.py
 Live Demo
 
 Access the deployed application here:
-👉 (https://resumescreeningtool-ssahs5dodvfkotfacucqva.streamlit.app/)
+👉 ## Live Demo
+👉 [Click here to open the deployed application](https://resumescreeningtool-ssahs5dodvfkotfacucqva.streamlit.app/)
+
 
 Future Enhancements
 
